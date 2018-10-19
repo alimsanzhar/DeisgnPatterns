@@ -1,4 +1,4 @@
-# Deisgn Patterns
+# Design Patterns
 
 ## About 
 A curated list of different Design Patterns implemented on Python. The list is based on the contributions of different developers. Those who are interested in contributing this repository please leave the pull requests and we'll check. 
